@@ -8,3 +8,4 @@ line8
 
 topic-A
 tt
+topic-B
